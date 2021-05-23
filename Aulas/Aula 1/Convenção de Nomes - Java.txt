@@ -1,0 +1,27 @@
+Convenção de Nomes do Java
+
+Nome do Projeto => Todo letra inicial do projeto deve se iniciar com a letra maiúscula
+Ex: Projeto
+
+Nome Composto
+Ex:PrimeiroProjeto
+Ex:PrimeiroProjetoDoSenac
+
+Proibido: espaço, caracteres especiais, iniciar projeto com número e colocar acentuação.
+
+Pacote
+
+Nome de pacote não pode ter maiúscula nem pode ter espaço, caracteres especiais, iniciar projeto com número
+e colocar acentuação,exceto o caracter .
+
+. => Representa a divisão de diretórios
+O nome dos pacotes iniciaram "com."complemento
+
+Nome de Classe => Todo letra inicial da classe deve se iniciar com a letra maiúscula
+Ex: Projeto
+
+Nome Composto
+Ex:PrimeiroProjeto
+Ex:PrimeiroProjetoDoSenac
+
+Proibido: espaço, caracteres especiais, iniciar classe com número e colocar acentuação.
